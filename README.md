@@ -1,12 +1,16 @@
 # ci-cd-final-project
 
-This project demonstrates CI/CD pipeline using:
-- GitHub Actions
-- Tekton Pipelines
-- OpenShift
+## Project Overview
+This project demonstrates a complete CI/CD pipeline using:
+- GitHub Actions (CI)
+- Tekton (CD)
+- OpenShift Pipelines
 
 ## Features
-- Dockerized application
-- Automated testing (nose)
-- Linting (flake8)
-- Deployment to OpenShift
+- Linting with flake8 / eslint
+- Unit testing with nose / jest
+- Container build and deployment
+- OpenShift pipeline automation
+
+## GitHub Repo
+(https://github.com/alaaMehdi/ibm-coursera-assignment)
