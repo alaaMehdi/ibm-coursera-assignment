@@ -1,4 +1,6 @@
-# ci-cd-final-project
+# CI/CD Pipeline with GitHub Actions and OpenShift
+
+This project demonstrates a CI/CD pipeline using GitHub Actions, Tekton, and OpenShift. It includes linting, testing, and deployment automation.
 
 ## Project Overview
 This project demonstrates a complete CI/CD pipeline using:
